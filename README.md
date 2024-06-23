@@ -1,2 +1,2 @@
 # terraform-echo
-echo module
+Dummy module, for terraform related tests.
